@@ -1,1 +1,1 @@
-# algoritmia-y-programacion
+# Algoritmia-Y-programacion
